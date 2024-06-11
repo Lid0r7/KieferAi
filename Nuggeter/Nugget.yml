@@ -1,0 +1,6 @@
+context:
+  expressions:
+    Nugget:
+      - Nugget
+  slots: {}
+  macros: {}
